@@ -17,5 +17,5 @@ e pronto, já vem com as pastar separadinhas pra mim
 git rm -r --cached .
 git status
 git add .
-git commit -m "fixed untracked files" 
+git commit -m 'fixed untracked files'
 ```
